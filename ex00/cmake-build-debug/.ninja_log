@@ -1,0 +1,17 @@
+# ninja log v5
+20	336	6730374018331395	CMakeFiles/ex00.dir/main.cpp.obj	4b90f9b6de80769d
+3	337	6730374018381481	CMakeFiles/ex00.dir/Cat.cpp.obj	d55acfaf1a0f667d
+378	525	6730374020254027	ex00.exe	aef8fd49e35f56ef
+17	378	6730374018831963	CMakeFiles/ex00.dir/Animal.cpp.obj	5725e749a0f46ea7
+23	357	6730374018530368	CMakeFiles/ex00.dir/Dog.cpp.obj	7473a71dd93a2ba8
+3	299	6730376915864166	CMakeFiles/ex00.dir/WrongCat.cpp.obj	6fbdbdaed097373f
+16	306	6730376915944774	CMakeFiles/ex00.dir/WrongAnimal.cpp.obj	b4dc4944a3bfabe2
+306	453	6730376917377952	ex00.exe	373b129e477deabd
+20	311	6730379921579136	CMakeFiles/ex00.dir/Cat.cpp.obj	d55acfaf1a0f667d
+23	318	6730379921725774	CMakeFiles/ex00.dir/Dog.cpp.obj	7473a71dd93a2ba8
+17	337	6730379921926445	CMakeFiles/ex00.dir/Animal.cpp.obj	5725e749a0f46ea7
+16	294	6730380883309746	CMakeFiles/ex00.dir/Cat.cpp.obj	d55acfaf1a0f667d
+22	309	6730380883455941	CMakeFiles/ex00.dir/Dog.cpp.obj	7473a71dd93a2ba8
+3	317	6730380883511208	CMakeFiles/ex00.dir/main.cpp.obj	4b90f9b6de80769d
+19	318	6730380883511208	CMakeFiles/ex00.dir/Animal.cpp.obj	5725e749a0f46ea7
+318	467	6730380885011510	ex00.exe	373b129e477deabd
